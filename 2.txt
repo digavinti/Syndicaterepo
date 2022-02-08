@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 modified
 <<<<<<< HEAD
+<<<<<<< HEAD
 for checking the commands
 
 further
@@ -16,3 +17,10 @@ keep the track
 
 continue
 >>>>>>> 6419d139522c720401d2c50c698303e17666a191
+=======
+for checking the commands
+>>>>>>> parent of 38958d8 (2.txt file)
+
+hiiii
+
+helloooo
