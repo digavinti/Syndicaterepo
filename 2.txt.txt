@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 modified
 <<<<<<< HEAD
 for checking the commands
@@ -6,3 +7,5 @@ further
 =======
 for checking the commands
 >>>>>>> 368bf1ddf7cd8f59cb49107891be08e0bbbcf7a6
+=======
+>>>>>>> parent of a77ff6d (any change)
