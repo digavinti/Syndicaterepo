@@ -7,5 +7,12 @@ further
 =======
 for checking the commands
 >>>>>>> 368bf1ddf7cd8f59cb49107891be08e0bbbcf7a6
+<<<<<<< HEAD
 =======
 >>>>>>> parent of a77ff6d (any change)
+=======
+
+keep the track
+
+continue
+>>>>>>> 6419d139522c720401d2c50c698303e17666a191
