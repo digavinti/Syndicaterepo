@@ -20,3 +20,7 @@ continue
 =======
 for checking the commands
 >>>>>>> parent of 38958d8 (2.txt file)
+
+hiiii
+
+helloooo
